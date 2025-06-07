@@ -1,7 +1,7 @@
-if BOARD_ESCHERWINGV2
+if BOARD_ESCHERWING
 
 config ZMK_KEYBOARD_NAME
-    default "EscherWing"
+    default "escherwing"
 
 config ZMK_USB
     default y
